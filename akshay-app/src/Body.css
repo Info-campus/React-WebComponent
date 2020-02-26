@@ -1,0 +1,31 @@
+.container-fluid
+{
+    background-color: rgb(2, 2, 43);
+}
+
+.list-group
+{
+    margin-bottom: 0px;
+    line-height: 40px;
+}
+
+.list-group>li
+{
+    background-color: black;
+    border-left: none;
+}
+
+.mylist>li>a
+{
+    color: white;
+    font-family: cursive; 
+    text-decoration: none;
+}
+
+#para
+{
+    color: white;
+    font-size: 18px;
+    font-style: italic; 
+    margin-top: 200px; 
+}

@@ -1,0 +1,42 @@
+.container-fluid
+{
+    padding: 0px;
+}
+
+.navbar
+{
+    height: 74px;
+    background-color: black;
+    margin-bottom: 0px;
+}
+
+button[type="button"]
+{
+    color: white;
+    border: 2px solid white;
+    border-radius: 100%;
+    line-height: 35px;
+}
+
+#brand
+{
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 35px;
+    font-family: cursive;
+    color: white;
+}
+
+.nav, .navbar-nav>li>a
+{
+    padding-right: 44px;
+    font-size: 18px;
+    font-family: cursive;
+    line-height: 35px;
+}
+
+.navbar-inverse .navbar-nav>li>a
+{
+    color: white;
+}
+

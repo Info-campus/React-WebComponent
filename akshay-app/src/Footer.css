@@ -1,0 +1,23 @@
+.container-fluid
+{
+    padding: 0px;    
+}
+
+.footer
+{
+    background-color: black;
+    height: 77px;
+    margin-top: -20px;
+}
+
+h3{
+    color: white;
+    font-family: cursive;
+    line-height: 30px;
+}
+
+p
+{
+    color: white;
+    font-family: cursive;
+}
