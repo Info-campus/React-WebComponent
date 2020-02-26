@@ -1,0 +1,10 @@
+.navbar{
+    padding: 20px 40px;
+}
+
+.nav-link{
+    color: whitesmoke !important;
+    margin: 0px 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
