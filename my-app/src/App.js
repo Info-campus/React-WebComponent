@@ -1,16 +1,18 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Header from './Components/Header';
+import Footer from './Components/Footer';
+import Main from './Components/Main';
+import Sidebar from './Components/Sidebar';
+
+
 
 function App() {
   return (
-    <div className="App"> 
-      <header className="App-header">
-        <div>This is Karthik S M</div>
-        <div>This is simanchal</div>
-        <img src={logo} className="App-logo" alt="logo" />
-      </header>
-      
+    <div className="App">
+        <Header/>
+        <Sidebar/>
+        <Main/>
+        <Footer/>
     </div>
   );
 }

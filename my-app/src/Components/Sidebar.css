@@ -1,0 +1,23 @@
+div.sidebar-area {
+    width: 30%;
+    float: left;
+    height: 400px;
+    background: burlywood;
+    
+}
+ul > li {
+    padding-bottom: 10px;
+    font-size: 1.2rem;
+}
+ul > li > a {
+    color: black;
+    text-decoration: none;
+}
+ul > li > a:hover{
+    font-weight: bold;
+}
+h3.course-heading {
+    padding-left: 20px;
+    padding-top: 17px;
+    font-size: 1.8rem;
+}
