@@ -5,6 +5,8 @@ function App() {
   return (
     <div className="App"> 
       <header className="App-header">
+      <h1>This is Yeshasri</h1>
+        <img src={logo} className="App-logo" alt="logo" />
         <h1>Mounika</h1>
         <div>This is Rashmi</div>
         <img src={logo} className="App-logo" alt="logo" />
